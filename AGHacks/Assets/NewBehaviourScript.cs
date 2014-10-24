@@ -15,4 +15,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	void Feed(){
 	}
+
+	void Metoda1(){
+	}
 }
